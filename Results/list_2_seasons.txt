@@ -1,0 +1,2 @@
+/home/marinna/Bureau/scan_networks/Results/light.graphml
+/home/marinna/Bureau/scan_networks/Results/nolight.graphml
