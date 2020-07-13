@@ -8,7 +8,7 @@
 
 ## Abundances and niches 
 
-1) Open the file ploting_abundance_and_metaniches.ipynb
+1) Open the file abundances_and_metaniches.ipynb
 => You are on the Jupyter Notebook
 I didn't succeed to hide the code so far. 
 2) Input data :
