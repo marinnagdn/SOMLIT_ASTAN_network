@@ -58,14 +58,18 @@ You can either give two keywords or one keyword.
 #### Example : 
 		kw1="Rhizaria"
 		kw2=""
-	
+
+
+
 => It will generate a heatmap with Rhizaria versus all other organisms, including Rhizaria
 		
 OR
 
 		kw1="Cercozoa"
 		kw2="Mollusca"
-		
+
+
+	
 => It will generate a heatmap with Cercozoa versus Mollusca
 	
 4) Taxonomic levels.
