@@ -1,4 +1,0 @@
-/home/marinna/Bureau/scan_networks/Results/spring.graphml
-/home/marinna/Bureau/scan_networks/Results/summer.graphml
-/home/marinna/Bureau/scan_networks/Results/autumn.graphml
-/home/marinna/Bureau/scan_networks/Results/winter.graphml
